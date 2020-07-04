@@ -11,13 +11,13 @@ This game is inpired by Ready player one and will take place in a low poly world
 they can socialise and challenge each other in mini-games where their coins are on the line.
 
 # Executive Summary
-High Concept: Open source simplifed ready player one.
-Game Genre: MMO/Mini-games
-Setting: Low poly environment.
-Target Player: VR users.
-Play Value: Collecting coins and socialising in VR.
-What’s Unique: open source VR game and varying styles of mini-games
-Game Engine: Unity
+High Concept: Open source simplifed ready player one.  
+Game Genre: MMO/Mini-games.  
+Setting: Low poly environment.  
+Target Player: VR users.  
+Play Value: Collecting coins and socialising in VR.  
+What’s Unique: open source VR game and varying styles of mini-games  
+Game Engine: Unity  
 
 # Ideal Play Session
 Joe puts his VR headset on his head and is ready to play a free and open source game that he saw on Reddit. When the game loads and ask him to enter his name he can already hear other players talking in the background. Once he has entered his name he is fully inside the game.
