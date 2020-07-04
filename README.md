@@ -54,7 +54,7 @@ Special Situations
 List any special modes or situations that are not the normal part of progress (such as landing in jail in the game Monopoly)
 
 Resolution
-List the different ways the game can be brought to a close through winning, losing and/or a draw.
+There is no end to the game
 
 # Mechanics
 List each of the mechanics the player can perform in your game (move, maneuver, jump, combat, aim, shoot, collect, buy, build, destroy, etc.)
