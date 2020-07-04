@@ -81,7 +81,6 @@ How?
 
 
 # Resources
-Examples of Resources: Action Points, Score, Lives, Health, Money, Building Materials, Mana  
 
 For each resource describe:  
 
@@ -92,6 +91,8 @@ Production: How is the resource produced?
 Consumption: How is the resource consumed?  
 Ownership: Who can own the resource? How does resource ownership change  
 Storage: Can the resource be stored? If so, how?  
+
+Coins are the only resource? 
 
 # Elements  
 For each game element ( obstacles, deadly traps, units, enemies, bosses, tools, power-ups, pick-ups, power-ups, controllers, chargers, etc.) describe:  
