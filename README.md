@@ -18,6 +18,7 @@ Target Player: VR users.
 Play Value: Collecting coins and socialising in VR.  
 What’s Unique: open source VR game and varying styles of mini-games  
 Game Engine: Unity  
+Networking: Normcore.io
 
 # Ideal Play Session
 Joe puts his VR headset on his head and is ready to play a free and open source game that he saw on Reddit. When the game loads and ask him to enter his name he can already hear other players talking in the background. Once he has entered his name he is fully inside the game.
