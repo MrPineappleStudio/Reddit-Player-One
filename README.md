@@ -1,3 +1,5 @@
+# This document is a work in progress please help us finish it!
+
 # Reddit-Player-One
 A open source VR Game.
 
