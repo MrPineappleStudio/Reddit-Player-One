@@ -70,7 +70,15 @@ Cue: What, if anything, lets players know that it is a good time to perform the 
 Requirements: What resources and/or procedures are required to perform the action perform the action..  
 Limitations: What rules place limits on the action’s frequency or effect? (e.g., cool down period).  
 Feedback: What, if anything lets players know they performed the action successfully?  
-Reward: What does the player receive or accomplish for performing the action. (e.g., resources).  
+Reward: What does the player receive or accomplish for performing the action. (e.g., resources).    
+
+Walking:
+Joystick? Swing arms? Teleport?  
+
+Enter Mini game:
+How?
+
+
 
 # Resources
 Examples of Resources: Action Points, Score, Lives, Health, Money, Building Materials, Mana  
