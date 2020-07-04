@@ -170,19 +170,12 @@ NPCs
 List them and their goals/personalities/abilities.  
 
 # Mini Games  
-For each mini game:  
+Minigames might be single or multiplayer.  
+Every mini game MUST include the following:
+*
+*
+*
 
-What is the level’s purpose in terms of game world boundary, progress indicator, closure point, narrative structure, opportunity for exploration, and/or balancing difficulty and complexity?  
-How does it related to other game levels?  
-How is it different from other game levels?  
-(What is the level’s layout? (Provide a diagram or map of the level, if applicable).  
-Where is the player’s starting point?  
-Where are the strategic locations (e.g., spawn points, resource generators, pick-ups, power-ups, chargers, safe havens)? What makes them strategic?  
-What are the resources the player must acquire?  
-Where are the obstacles/enemies? (including spawn points, if any)  
-What are the intermediate objectives? (if any — include waypoints)  
-What are the victory/loss conditions?  
-Where is the level’s exit (if any)?  
-If your game has fewer than 3 levels, or is not a level-based game, please explain why.  
+
 
 
