@@ -185,6 +185,8 @@ Every mini game MUST include the following:
 *
 *
 
+# Coding standards
+https://wiki.unity3d.com/index.php/Csharp_Coding_Guidelines
 
 
 
